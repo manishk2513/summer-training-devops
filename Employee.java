@@ -4,6 +4,7 @@ class Employee {
 		String post = "Sr. Developer";
 		int age = 32;
 		double salary = 89000;
+		string location = "chennai";
 	}
 }
 
