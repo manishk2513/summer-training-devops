@@ -3,7 +3,7 @@ class Employee {
 		String name = "Krishna Kumar";
 		String post = "Sr. Developer";
 		int age = 32;
-		double salary = 89000;
+		double salary = 93000;
 	}
 }
 
